@@ -1,6 +1,6 @@
-# jauth
+# JAuth
 
-A brief description of what your gem does.
+JAuth is a Ruby gem for handling user authentication in Ruby applications.
 
 ## Installation
 
