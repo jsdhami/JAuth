@@ -1,5 +1,5 @@
 Gem::Specification.new do |spec|
-    spec.name          = "jauth"
+    spec.name          = "JAuth"
     spec.version       = "0.0.1"
     spec.summary       = "A brief description of your gem"
     spec.description   = "A longer description of your gem"
