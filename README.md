@@ -1,4 +1,4 @@
-# JAuth
+# JAuth [![Gem Version](https://badge.fury.io/rb/JAuth.svg)](https://badge.fury.io/rb/JAuth)
 
 JAuth is a Ruby gem for handling user authentication in Ruby applications.
 
