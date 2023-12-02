@@ -7,4 +7,4 @@ JAuth is a Ruby gem for handling user authentication in Ruby applications.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'jauth'
+gem 'JAuth', '~> 0.0.1'
